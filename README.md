@@ -117,3 +117,7 @@ This project was created as a practical exercise while learning Docker and DevOp
 The main goal was to understand how a multi-service application can be packaged and run consistently using containers, rather than relying on each service being installed and configured directly on the host machine.
 
 It also builds on my existing experience with Git, GitHub, Python development and automated testing, while giving me practical experience with containerisation and service orchestration.
+
+## Adding Jenkins WebHook
+
+The goal of this is to add a commit to this branch, check Jenkins to see if a new build has started automatically. Webhook delivery should show as successful.
